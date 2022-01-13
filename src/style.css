@@ -162,10 +162,6 @@ body main #card #textContainer h2 {
   color: #45037a;
 }
 
-body main #card #textContainer h2 a {
-  text-decoration: none;
-}
-
 body main #card #textContainer h3 {
   font-size: 1.4rem;
   color: #5c5e7c;
